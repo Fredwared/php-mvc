@@ -11,7 +11,8 @@
     },
     "autoload": {
         "files": [
-            "app/routes.php"
+            "app/routes.php",
+            "app/helpers.php"
         ],
         "classmap": [
             "app/"
